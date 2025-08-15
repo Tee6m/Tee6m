@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Next.Js and React-Native Projects**
 
-- 💬 Ask me about **JavaScript, Laravel and Python**
+- 💬 Ask me about **JavaScript(React, Next.js), PHP and Python**
 
 - 📫 How to reach me **ezekieltochukwu017@gmail.com**
 
